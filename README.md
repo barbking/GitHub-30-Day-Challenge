@@ -7,3 +7,4 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 - Coding: Python and Machine Learing projects
 
 #### Nov 5, 2019
+- Reading: The fourth Industrial Revolution
