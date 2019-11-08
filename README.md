@@ -7,4 +7,12 @@ https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 - Coding: Python and Machine Learing projects
 
 #### Nov 5, 2019
-- Reading: The fourth Industrial Revolution
+- Reading: The Fourth Industrial Revolution
+- No coding, break for family vacation in Florida
+
+#### Nov 6, 2019
+- Reading: The Fourth Industrial Revolution
+- Logged 29000 steps on my Garmin watch running around Universal Studios with the kids and spent many hours waiting in line, but 90 minute wait for Hagrid's Magical Creature Motorbike Adventure worth it.
+
+#### Nov 7, 2019
+- Coding: Spark/SQL/RDD for Big Data Architecture homework assignment, Python/SAS for Healthcare Analytics project
