@@ -1,5 +1,5 @@
 ## GitHub 30-Day Challenge and Personal Changelog
-30 day challenge focused not just on coding but also personal growth.  Goal is to make a habit of committing time each day for learning and personal growth.
+30 day challenge focused not just on coding, but also personal growth.  Goal is to make a habit of committing time each day for learning and personal growth.
 https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ### Goals
