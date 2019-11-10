@@ -26,5 +26,6 @@ My goal for the next 30 days is to spend time becoming familiar with Kaggle and 
 - Helped my daughter with algebra homework, I always comment when helping kids with homework on how fun math is and they look at me like I'm strange. 
 
 #### Nov 9, 2019
-- Continue catch up for missed class time.
+- Continue catch up for missed class time.  Finishing up assignments on Spark Steaming.  Starting on healthcare predictive analytics using decsion tree model and Naive Bayes model to predict depression in patients.
+- 5 mile trail run with friends for some outdoor therapy time.
 
