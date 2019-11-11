@@ -32,3 +32,5 @@ My goal for the next 30 days is to spend time becoming familiar with Kaggle and 
 #### Nov 10, 2019
 - Worked on homework for healthcare analytics class. Using the DE-SynPUF beneficiary dataset (approx 7 million records), the assignment is to use decision tree related methods to predict depression as a response/target.  The most time-consuming part of the project is a large amount of data to process and cleansing/transforming the data as some patients have multiple records for the same year or some data values missing.  Technology using:  Jupyter notebook, python, pandas, numpy, matplotlib, scikit-learn.
 
+#### Nov 11, 2019
+- Working all day and then straight to three hour class at night, learning limited to class tonight which is covering fast data access in Druid and Kudo.
