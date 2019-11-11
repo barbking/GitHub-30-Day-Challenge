@@ -29,3 +29,6 @@ My goal for the next 30 days is to spend time becoming familiar with Kaggle and 
 - Continue catch up for missed class time.  Finishing up assignments on Spark Steaming.  Starting on healthcare predictive analytics using decsion tree model and Naive Bayes model to predict depression in patients.
 - 5 mile trail run with friends for some outdoor therapy time.
 
+#### Nov 10, 2019
+- Worked on homework for healthcare analytics class. Using the DE-SynPUF beneficiary dataset (approx 7 million records), the assignment is to use decision tree related methods to predict depression as a response/target.  The most time-consuming part of the project is a large amount of data to process and cleansing/transforming the data as some patients have multiple records for the same year or some data values missing.  Technology using:  Jupyter notebook, python, pandas, numpy, matplotlib, scikit-learn.
+
