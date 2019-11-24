@@ -3,7 +3,10 @@
 https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
 ### Goals
-My goal for the next 30 days is to spend time becoming familiar with Kaggle and their machine learning competitions. Ultimately, I'd like to enter a competition to get more practice in machine learning and increase my data science skillset. However, I have to juggle full-time grad school, being a single parent of two kids in activities, and starting a new job. I'd also like to start reading [Deep Medicine](https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1573235314&sr=8-3), which I bought a couple of months ago and haven't had time to start.   
+My goal for the next 30 days:
+- Get back into habit of commiting work to GitHub.
+- Spend time becoming familiar with Kaggle and their machine learning competitions. Ultimately, I'd like to enter a competition to get more practice in machine learning and increase my data science skillset. However, I have to juggle full-time grad school, being a single parent of two kids in activities, and starting a new job. 
+- I'd also like to start reading [Deep Medicine](https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1573235314&sr=8-3), which I bought a couple of months ago and haven't had time to start.   
 
 #### Nov 4, 2019
 - Reading: [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1524758868/ref=sr_1_3?crid=2SK4KUE1BDGO8&keywords=fourth+industrial+revolution&qid=1572623598&sprefix=fourth+industrial%2Caps%2C222&sr=8-3)
@@ -45,5 +48,11 @@ My goal for the next 30 days is to spend time becoming familiar with Kaggle and 
 #### Nov 14, 2019
 - Python/panadas/machine learning work for class assignment.  While my goal this month was to do some Kaggle learning/competition.  This homework assignment is covering much of the same areas of learning.  I will probably have to postpone entering my first Kaggle competition until after this semester ends in Dec.
 
+#### Nov 18, 2019
+- Intro to Elasticsearch architecture built on Apache Lucene.  Benefits of Elasticsearch is that it's capable of retrieving information in sub-second queries at petabyte scale.
+
+#### Nov 22, 2019
+- Finished up machine learning project for homework assignments due this week.
+
 #### Nov 23, 2019
-- Finished up machine learning project for homework assignments and onto projet work to analyze inpatient and outpatient records for predictive analytics.
+- Started analyzing inpatient and outpatient records for healthcare predictive analytics project.  Will be looking at ways to predict patients at high risk for hospital admittance based on ICD9 diagnosis codes in outpatient claim data.
