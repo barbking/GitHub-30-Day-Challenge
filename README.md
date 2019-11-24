@@ -44,3 +44,6 @@ My goal for the next 30 days is to spend time becoming familiar with Kaggle and 
 
 #### Nov 14, 2019
 - Python/panadas/machine learning work for class assignment.  While my goal this month was to do some Kaggle learning/competition.  This homework assignment is covering much of the same areas of learning.  I will probably have to postpone entering my first Kaggle competition until after this semester ends in Dec.
+
+#### Nov 23, 2019
+- Finished up machine learning project for homework assignments and onto projet work to analyze inpatient and outpatient records for predictive analytics.
