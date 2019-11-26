@@ -58,4 +58,4 @@ My goal for the next 30 days:
 - Started analyzing inpatient and outpatient records for healthcare predictive analytics project.  Will be looking at ways to predict patients at high risk for hospital admittance based on ICD9 diagnosis codes in outpatient claim data.
 
 #### Nov 25, 2019
-- Clound architecture intro, virtual machines and containers.  Signed up for Azure subscription with free $200 credit, I've used AWS in my devops class but have no experience with Azure.  Started tutorial to create an end-to-end data pipeline to derive sales insights.
+- Clound architecture, virtual machines and containers lecture in class tonight.  Signed up for Azure subscription with free $200 credit, I've used AWS in a devops class but have no experience with Azure.  Started tutorial to create an end-to-end data pipeline to derive sales insights.
