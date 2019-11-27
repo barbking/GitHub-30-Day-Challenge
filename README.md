@@ -59,3 +59,7 @@ My goal for the next 30 days:
 
 #### Nov 25, 2019
 - Clound architecture, virtual machines and containers lecture in class tonight.  Signed up for Azure subscription with free $200 credit, I've used AWS in a devops class but have no experience with Azure.  Started tutorial to create an end-to-end data pipeline to derive sales insights.
+
+#### Nov 26, 2019
+- Continued work and discussion with my team members on how to transform our data for healthcare predictive analytics project.
+- Downloaded Kaggle Data Science survey dataset to play around with data visualizations.
