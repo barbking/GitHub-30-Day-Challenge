@@ -63,3 +63,11 @@ My goal for the next 30 days:
 #### Nov 26, 2019
 - Continued work and discussion with my team members on how to transform our data for healthcare predictive analytics project.
 - Downloaded Kaggle Data Science survey dataset to play around with data visualizations.
+
+#### Nov 27, 2019
+- First snowfall in MN means it's now time to switch from outdoor running to snowshoeing, enjoyed some stress free time with a friend going on a quick 1 hr snowshoe hike in reserve near my house.
+- Continued reviewing project data, approximate 15 million records and 32 features, trying to decide on best way to deal with missing data and removing features that aren't going to be useful.
+
+#### Nov 28, 2019
+- Happy Turkey Day!  Very thankful for all my family and friends!
+
