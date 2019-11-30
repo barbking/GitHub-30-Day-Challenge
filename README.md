@@ -71,6 +71,9 @@ My goal for the next 30 days:
 #### Nov 28, 2019
 - Happy Turkey Day!  Very thankful for all my family and friends!
 
+#### Nov 30, 2019
+- Of course, I remember yesterday's commit at 12:30am this morning.  Up late working on class project and slipped my mind. Trying to figure out best way to deal with high cardinality categorical feature, looks like best way, for now, is to aggregate into 19 IC9 categories.  Also joining some columns to dataset form beneficiary data such race, age, state, sex.
+
 #### Some metrics to show my progress/improvement during this 30-day challenge:
 - Commits made in previous 30 day period (Oct 5, 2019 - Nov 3, 2019): 3/30 = 10%
 - Commits made in current 30 day period (Nov 4, 2019 - Dec 3, 2019): 19/30 = 63% (so far...still several days left)
