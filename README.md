@@ -2,11 +2,12 @@
 30 day challenge focused not just on coding, but also personal growth.  Goal is to make a habit of committing time each day for learning and personal growth.
 https://medium.com/@docix/github-30-day-challenge-7eaac41e4176
 
-### Goals
+### Goals for this 30 challenge
 My goal for the next 30 days:
 - Get back into habit of commiting work to GitHub.
-- Spend time becoming familiar with Kaggle and their machine learning competitions. Ultimately, I'd like to enter a competition to get more practice in machine learning and increase my data science skillset. However, I have to juggle full-time grad school, being a single parent of two kids in activities, and starting a new job. 
-- I'd also like to start reading [Deep Medicine](https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1573235314&sr=8-3), which I bought a couple of months ago and haven't had time to start.   
+- Spend time becoming familiar with Kaggle and their machine learning competitions. Ultimately, I'd like to enter a competition to get more practice in machine learning and increase my data science skillset. 
+### Goals for next 30 day challenge
+- Start reading [Deep Medicine](https://www.amazon.com/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1573235314&sr=8-3), which I bought a couple of months ago and haven't had time to start.   
 
 #### Nov 4, 2019
 - Reading: [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1524758868/ref=sr_1_3?crid=2SK4KUE1BDGO8&keywords=fourth+industrial+revolution&qid=1572623598&sprefix=fourth+industrial%2Caps%2C222&sr=8-3)
@@ -76,4 +77,4 @@ My goal for the next 30 days:
 
 #### Some metrics to show my progress/improvement during this 30-day challenge:
 - Commits made in previous 30 day period (Oct 5, 2019 - Nov 3, 2019): 3/30 = 10%
-- Commits made in current 30 day period (Nov 4, 2019 - Dec 3, 2019): 19/30 = 63% (so far...still several days left)
+- Commits made in current 30 day period (Nov 4, 2019 - Dec 3, 2019): 19/30 = 63% (so far)
