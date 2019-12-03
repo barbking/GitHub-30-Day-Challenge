@@ -77,4 +77,4 @@ My goal for the next 30 days:
 
 #### Some metrics to show my progress/improvement during this 30-day challenge:
 - Commits made in previous 30 day period (Oct 5, 2019 - Nov 3, 2019): 3/30 = 10%
-- Commits made in current 30 day period (Nov 4, 2019 - Dec 3, 2019): 19/30 = 63% (so far)
+- Commits made in current 30 day period (Nov 4, 2019 - Dec 3, 2019): 21/30 = 70%
