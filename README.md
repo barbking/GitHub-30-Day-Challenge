@@ -30,8 +30,8 @@ My goal for the next 30 days:
 - Helped my daughter with algebra homework, I always comment when helping kids with homework on how fun math is and they look at me like I'm strange. 
 
 #### Nov 9, 2019
-- Continue catch up for missed class time.  Finishing up assignments on Spark Steaming.  Starting on healthcare predictive analytics using decsion tree model and Naive Bayes model to predict depression in patients.
-- 5 mile trail run with friends for some outdoor therapy time.
+- Continue catch up for missed class time.  Finishing up assignments on Spark Steaming.  Starting on healthcare predictive analytics using decision tree model and Naive Bayes model to predict depression in patients.
+- 5-mile trail run with friends for some outdoor therapy time.
 
 #### Nov 10, 2019
 - Worked on homework for healthcare analytics class. Using the DE-SynPUF beneficiary dataset (approx 7 million records), the assignment is to use decision tree related methods to predict depression as a response/target.  The most time-consuming part of the project is a large amount of data to process and cleansing/transforming the data as some patients have multiple records for the same year or some data values missing.  Technology using:  Jupyter notebook, python, pandas, numpy, matplotlib, scikit-learn.
@@ -44,13 +44,13 @@ My goal for the next 30 days:
 - Continued pandas/python learning.
 
 #### Nov 13, 2019
-- Missed my commit last night!  It was a long day going to work and then back home to pick up my daughter, and then another long drive downtown to take my daughter to see one of her favorite Korean pop music bands that rarely tours.  But, it was worth it to see my daughter's enjoyment. She works very hard in her honors/ap classes, gets all A's in addition to her dedication to marching band, mock trial, and basketball. And she has to tolerate a majority of my attention focused on my son's disability. The perfectionist in me is annoyed at missing my commit for the day; however, weeks from now, I won't even remember this, while the concert and meeting band members will be a lifetime memory for my daughter. 
+- Missed my commit last night!  It was a long day going to work and then back home to pick up my daughter, and then another long drive downtown to take my daughter to see one of her favorite Korean pop music bands that rarely tours.  But, it was worth it to see my daughter's smile!
 
 #### Nov 14, 2019
 - Python/panadas/machine learning work for class assignment.  While my goal this month was to do some Kaggle learning/competition.  This homework assignment is covering much of the same areas of learning.  I will probably have to postpone entering my first Kaggle competition until after this semester ends in Dec.
 
 #### Nov 18, 2019
-- Intro to Elasticsearch architecture built on Apache Lucene.  Benefits of Elasticsearch is that it's capable of retrieving information in sub-second queries at petabyte scale.
+- Intro to ElasticSearch architecture built on Apache Lucene.  Benefits of Elasticsearch is that it's capable of retrieving information in sub-second queries at petabyte scale.
 
 #### Nov 22, 2019
 - Finished up machine learning project for homework assignments due this week.
