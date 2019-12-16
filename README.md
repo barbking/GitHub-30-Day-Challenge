@@ -19,7 +19,7 @@ My goal for the next 30 days:
 
 #### Nov 6, 2019
 - Reading: The Fourth Industrial Revolution
-- Logged 29000 steps on my Garmin watch running around Universal Studios with the kids and spent many hours waiting in line, but 90 minute wait for Hagrid's Magical Creature Motorbike Adventure was worth it.
+- Logged 29000 steps on my Garmin watch running around Universal Studios with the kids.
 
 #### Nov 7, 2019
 - Reading: Finished The Fourth Industrial Revolution
@@ -27,7 +27,6 @@ My goal for the next 30 days:
 
 #### Nov 8, 2019
 - Catch up time after being in Orlando for short "vacation", if you call running around for five days through multiple parks in Disney and Universal a vacation. :)  Watched professor's recorded three hour lecture for the Big Data Architecture class I missed while out of town and worked through Spark Streaming Databricks labs.
-- Helped my daughter with algebra homework, I always comment when helping kids with homework on how fun math is and they look at me like I'm strange. 
 
 #### Nov 9, 2019
 - Continue catch up for missed class time.  Finishing up assignments on Spark Steaming.  Starting on healthcare predictive analytics using decision tree model and Naive Bayes model to predict depression in patients.
@@ -44,13 +43,13 @@ My goal for the next 30 days:
 - Continued pandas/python learning.
 
 #### Nov 13, 2019
-- Missed my commit last night!  It was a long day going to work and then back home to pick up my daughter, and then another long drive downtown to take my daughter to see one of her favorite Korean pop music bands that rarely tours.  But, it was worth it to see my daughter's smile!
+- Missed my commit last night!  It was a long day going to work and then back home to pick up my daughter, and then another long drive downtown to take my daughter to see one of her favorite Korean pop music bands that rarely tours...but it was worth it to see my daughter's smile!
 
 #### Nov 14, 2019
 - Python/panadas/machine learning work for class assignment.  While my goal this month was to do some Kaggle learning/competition.  This homework assignment is covering much of the same areas of learning.  I will probably have to postpone entering my first Kaggle competition until after this semester ends in Dec.
 
 #### Nov 18, 2019
-- Intro to ElasticSearch architecture built on Apache Lucene.  Benefits of Elasticsearch is that it's capable of retrieving information in sub-second queries at petabyte scale.
+- Intro to Elasticsearch architecture built on Apache Lucene.  Benefits of Elasticsearch is that it's capable of retrieving information in sub-second queries at petabyte scale.
 
 #### Nov 22, 2019
 - Finished up machine learning project for homework assignments due this week.
@@ -73,7 +72,7 @@ My goal for the next 30 days:
 - Happy Turkey Day!  Very thankful for all my family and friends!
 
 #### Nov 30, 2019
-- Of course, I remember yesterday's commit at 12:30am this morning.  Up late working on class project and slipped my mind. Trying to figure out best way to deal with high cardinality categorical feature, looks like best way, for now, is to aggregate into 19 IC9 categories.  Also joining some columns to dataset form beneficiary data such race, age, state, sex.
+- Of course, I remember yesterday's commit at 12:30am this morning.  Up late working on class project and slipped my mind. Trying to figure out best way to deal with high cardinality categorical feature, looks like best option may be to aggregate into 19 IC9 categories.  Also joining some features from beneficiary dataset that may be useful predictors such race, age, state, and sex.
 
 #### Some metrics to show my progress/improvement during this 30-day challenge:
 - Commits made in previous 30 day period (Oct 5, 2019 - Nov 3, 2019): 3/30 = 10%
