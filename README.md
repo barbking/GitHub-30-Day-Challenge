@@ -11,7 +11,7 @@ My goal for the next 30 days:
 
 #### Nov 4, 2019
 - Reading: [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1524758868/ref=sr_1_3?crid=2SK4KUE1BDGO8&keywords=fourth+industrial+revolution&qid=1572623598&sprefix=fourth+industrial%2Caps%2C222&sr=8-3)
-- Coding: Python and Machine Learing projects
+- Coding: Python and Machine Learning projects
 
 #### Nov 5, 2019
 - Reading: The Fourth Industrial Revolution
@@ -65,7 +65,7 @@ My goal for the next 30 days:
 - Downloaded Kaggle Data Science survey dataset to play around with data visualizations.
 
 #### Nov 27, 2019
-- First snowfall in MN means it's now time to switch from outdoor running to snowshoeing, enjoyed some stress free time with a friend going on a quick 1 hr snowshoe hike in reserve near my house.
+- First snowfall in MN means it's now time to switch from outdoor running to snowshoeing, enjoyed some stress free time with a friend going on a quick 1 hr snowshoe hike.
 - Continued reviewing project data, approximate 15 million records and 32 features, trying to decide on best way to deal with missing data and removing features that aren't going to be useful.
 
 #### Nov 28, 2019
